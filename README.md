@@ -5,4 +5,4 @@ Este desafio consiste na modelagem e implementação em Java de um componente do
 # Diagrama uml
 
 Representando um sistema de um iphone através de um iagrama UML, representado pelas classes e interfaces.
-![uml](/uml/Iphone.png)
+![Diagrama uml](/uml/Iphone.png)
